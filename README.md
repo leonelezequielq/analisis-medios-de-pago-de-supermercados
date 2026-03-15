@@ -17,8 +17,9 @@ Proyecto de análisis de datos end-to-end sobre la evolución de los medios de p
 - DAX (medidas analíticas)
 
 ## Estructura del proyecto
-- `proyecto-analisis-medios-de-pago-de-supermercados.xlsx` — Dashboard interactivo con modelo de datos
-- `proyecto-analisis-medios-de-pago-de-supermercados.docx` — Documentación técnica del proyecto
+- `.XSLX - proyecto-analisis-medios-de-pago-de-supermercados.xlsx` — Dashboard interactivo con modelo de datos
+- `.DOCX - proyecto-analisis-medios-de-pago-de-supermercados.docx` — Documentación técnica del proyecto en Word
+- `.pdf - proyecto-analisis-medios-de-pago-de-supermercados.pdf` — Documentación técnica del proyecto en PDF
 
 ## Fuente de datos
 Subsecretaría de Programación Macroeconómica — [datos.gob.ar](https://datos.gob.ar/dataset/sspm-ventas-supermercados)
